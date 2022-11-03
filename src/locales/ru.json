@@ -1,0 +1,75 @@
+{
+  "select-language": "Выберите язык",
+  "tooltipTopMenu": {
+    "wx": "WX Сообщество",
+    "wx_meta": "WX Метавселенная",
+    "wx_client": "WX Клиент",
+    "wx_nft": "WX NFT маркетплейс"
+  },
+  "authorizationButtonText": {
+    "login": "Вход",
+    "sign_up": "Авторизация"
+  },
+  "landing": {
+    "top": "В мире инвестиций с",
+    "slogan": "ИНВЕСТИЦИИ В БУДУЩЕЕ"
+  },
+  "top-menu": {
+    "title": {
+      "blog": "Блог",
+      "support": "Поддержка",
+      "platform": "Платформа",
+      "docs": "Документация",
+      "learning": "Обучение"
+    }
+  },
+  "auth": {
+    "form": {
+      "placeholders": {
+        "name": "Ваше Имя",
+        "last_name": "Фамилия",
+        "email": "Е-майл",
+        "rate": {
+          "free": "Бесплатно",
+          "free_text": "Быстро начать",
+          "paid": "Платно",
+          "paid_text": "Больше возможностей"
+        }
+      }
+    },
+    "become":  "Присоединятесь к WEBX GROUP",
+    "become_after_text":  "Начни путешествие в мир инвестиций, уже сейчас",
+    "title": "Join Us Now.",
+    "subtitle": "Start by creating your account",
+    "label": {
+      "promotional": "Receive promotional offers"
+    },
+    "action": {
+      "login": "I already have an account",
+      "signup": "Sign Up"
+    },
+    "placeholder": {
+      "name": "Name",
+      "email": "Email Address",
+      "password": "Password",
+      "passwordCheck": "Password Verification"
+    },
+    "errors": {
+      "name": {
+        "required": "Поле имя обязательно"
+      },
+      "email": {
+        "required": "Enter your email, it will be required to login",
+        "format": "Please, enter a valid email"
+      },
+      "password": {
+        "required": "Enter your password with at least 8 characters, it will be required to login",
+        "length": "The password should contains at leat 8 characters"
+      },
+      "passwordCheck": {
+        "required": "Please, confirm your password",
+        "match": "The password does not match"
+      }
+    }
+  }
+}

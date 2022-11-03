@@ -1,0 +1,75 @@
+{
+  "select-language": "Select Language",
+  "tooltipTopMenu": {
+    "wx": "WX Community",
+    "wx_meta": "WX Metaverse",
+    "wx_client": "WX Client",
+    "wx_nft": "WX NFT Marketplace"
+  },
+  "authorizationButtonText": {
+    "login": "Login",
+    "sign_up": "Sign Up"
+  },
+  "landing": {
+    "top": "In the world of investments with",
+    "slogan": "INVESTING IN THE FUTURE"
+  },
+  "top-menu": {
+    "title": {
+      "blog": "Blog",
+      "support": "Support",
+      "platform": "Platform",
+      "docs": "Docs",
+      "learning": "Learning"
+    }
+  },
+  "auth": {
+    "form": {
+      "placeholders": {
+        "name": "First Name",
+        "last_name": "Last Name",
+        "email": "E-mail",
+        "rate": {
+          "free": "Free",
+          "free_text": "Nice to get started",
+          "paid": "Paid",
+          "paid_text": "Get a lot more features"
+        }
+      }
+    },
+    "become":  "Become a WEBX GROUP",
+    "become_after_text":  "Start your journey into the world of investment now",
+    "title": "Join Us Now.",
+    "subtitle": "Start by creating your account",
+    "label": {
+      "promotional": "Receive promotional offers"
+    },
+    "action": {
+      "login": "I already have an account",
+      "signup": "Sign Up"
+    },
+    "placeholder": {
+      "name": "Name",
+      "email": "Email Address",
+      "password": "Password",
+      "passwordCheck": "Password Verification"
+    },
+    "errors": {
+      "name": {
+        "required": "Your name first name is required"
+      },
+      "email": {
+        "required": "Enter your email, it will be required to login",
+        "format": "Please, enter a valid email"
+      },
+      "password": {
+        "required": "Enter your password with at least 8 characters, it will be required to login",
+        "length": "The password should contains at leat 8 characters"
+      },
+      "passwordCheck": {
+        "required": "Please, confirm your password",
+        "match": "The password does not match"
+      }
+    }
+  }
+}
